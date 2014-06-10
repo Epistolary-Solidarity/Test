@@ -1,0 +1,3 @@
+This is another test file. Epistolary Solidarity is a DC based group that meets twice-monthly to write letters of support to political prisoners incarcerated in the United States. This low-risk, high-impact form of direct action serves to educate and politicize individuals in the DC metro area on the widespread and pervasive problem of politically-based incarceration in the United States. Solidarity and direct support to individuals inprisoned on political charges or charges trumped up for political purposes strengthens their resolve and gives the pen-pals a stake in political struggles.
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
